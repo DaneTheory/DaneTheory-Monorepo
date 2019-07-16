@@ -1,0 +1,9 @@
+{
+  "name": "@danetheory/danetheory-utils",
+  "version": "1.0.0",
+  "description": "Utilities/helpers used around the DaneTheory.com monorepo.",
+  "main": "index.js",
+  "author": "Branden Dane",
+  "license": "MIT",
+  "private": true
+}

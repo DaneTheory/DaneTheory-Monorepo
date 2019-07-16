@@ -1,0 +1,9 @@
+{
+  "name": "@danetheory/danetheory-services",
+  "version": "1.0.0",
+  "description": "Integrated services for DaneTheory.com to provide additional features.",
+  "main": "index.js",
+  "author": "Branden Dane",
+  "license": "MIT",
+  "private": true
+}

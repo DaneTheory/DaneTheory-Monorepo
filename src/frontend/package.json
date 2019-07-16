@@ -1,0 +1,9 @@
+{
+  "name": "@danetheory/danetheory-frontend",
+  "version": "1.0.0",
+  "description": "Frontend for DaneTheory.com using NextJS, Redux, SSR, ES6, ES7, ESNext, and other goodies.",
+  "main": "index.js",
+  "author": "Branden Dane",
+  "license": "MIT",
+  "private": true
+}
