@@ -10,6 +10,17 @@
   "repository": "https://github.com/DaneTheory/DaneTheory-Monorepo",
   "author": "Branden Dane",
   "license": "MIT",
+  "scripts": {
+    "release": "cross-env HUSKY_BYPASS=true lerna publish"
+  },
+  "husky": {
+    "hooks": {
+    "commit-msg": "[[ -n $HUSKY_BYPASS ]] || commitlint -E HUSKY_GIT_PARAMS"
+    }
+  },
+  "commitlint": {
+    "extends": ["@commitlint/config-conventional"]
+  },
   "devDependencies": {
     "@commitlint/cli": "^8.1.0",
     "@commitlint/config-conventional": "^8.1.0",
