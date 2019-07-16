@@ -1,6 +1,6 @@
 {
   "name": "@danetheory/danetheory-backend",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "microservice based architecture run atop RESTful APIs using Micro.",
   "main": "index.js",
   "author": "Branden Dane",

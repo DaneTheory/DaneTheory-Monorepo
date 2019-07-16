@@ -1,6 +1,6 @@
 {
   "name": "@danetheory/danetheory-db",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "JSON (for now) representation of the schema needed to run CRUD operations against",
   "main": "index.js",
   "author": "Branden Dane",
